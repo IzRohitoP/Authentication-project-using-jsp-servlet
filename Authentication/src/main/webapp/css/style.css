@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.bg-custom{
+	background-color: #43a047 !important;
+}
+
+.bt-custom{
+	background-color: #ff8f00 !important;
+}
+
+.c-head{
+	background-color: #e91e63 !important;
+}
+
+body{
+	background-image: linear-gradient(to right bottom, #a90b9e, #e5027e, #ff485a, #ff813a, #ffb728, #fdc122, #fbca1d, #f7d41a, #fab600, #fa9600, #f77500, #f15010);
+	
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
